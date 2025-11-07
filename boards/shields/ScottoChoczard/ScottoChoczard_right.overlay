@@ -1,4 +1,4 @@
-#include "skeletyl.dtsi"
+#include "ScottoChoczard.dtsi"
 
 &default_transform { // The matrix transform for this board is 5
     col-offset = <5>;

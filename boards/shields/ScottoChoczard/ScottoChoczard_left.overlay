@@ -1,4 +1,4 @@
-#include "skeletyl.dtsi"
+#include "ScottoChoczard.dtsi"
 
 // if you're using the Amoeba PCBs, you may want to put the GPIO_PULL_DOWN in the
 // col-gpios instead
